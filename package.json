@@ -1,0 +1,7 @@
+{
+  "name": "compass-authoritative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Dinh <mkdinh94@gmail.com>",
+  "license": "MIT"
+}
